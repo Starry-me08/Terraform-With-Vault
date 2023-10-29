@@ -4,7 +4,7 @@ variable "vault_addr" {
 }
 
 variable "vault_token" {
-  default = "hvs.jWvnW2F0XkWvfqO3o8I5ZcNJ"
+  default = "hvs.jWvnW2F0XkWvfqO"
   #default = "Vault_Token"
 }
 
